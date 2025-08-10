@@ -104,6 +104,6 @@ npm run dev
 - newMessage - New message received
 - getOnlineUsers - List of online
 
-Author
+# Author
 Bhushan Uparikar
 IIIT Nagpur
